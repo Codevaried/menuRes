@@ -1,8 +1,8 @@
 Restaurante: Develhope Restaurant
-Tipo de menú: MEAT
 ---
 Bebidas:
 - Agua mineral
 - Zumo de Naranja
 - Cerveza artesanal
 ---
+Tipos de menú (MEAT, VEGAN, FISH):
