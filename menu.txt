@@ -1,5 +1,5 @@
 Restaurante: Develhope Restaurant
-Tipo de menú: Menú a la Carta
+Tipo de menú: MEAT
 ---
 Bebidas:
 - Agua mineral
