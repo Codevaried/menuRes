@@ -1,0 +1,7 @@
+Menú 1: Carne
+    Opción 1:
+    - Primer plato: Rollito de primavera con pollo
+    - Segundo plato: Pato a la naranja
+    Opción 2: 
+    - Primer plato: Entremeses
+    - Segundo plato: Chuletón
