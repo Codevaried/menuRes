@@ -1,0 +1,3 @@
+Tipo de menu: Pescados
+Primer plato: Sopa de marisco, Gambas al ajillo, Pulpo a la gallega
+Segundo plato: Merluza, Bonito, Lenguado con patatas
