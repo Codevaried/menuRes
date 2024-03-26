@@ -1,0 +1,15 @@
+copiar el repo git clone https://github.com/Codevaried/menuRes.git
+
+clonar ramar desde main git fetch --all
+
+entrar en la rama develop git checkout develop
+
+crear la rama a trabajar estando en develop git checkout -b "nombre de la rama"
+
+crear el txt 
+
+agregar los cambios git add nombreDelArchivo
+
+hacer commit "buscar comando "
+
+subir los cambios al repo remoto "buscar comando "
